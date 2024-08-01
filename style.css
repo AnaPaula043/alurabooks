@@ -1,12 +1,12 @@
 :root{
     --cor-de-fundo:#EBECEE;
     --verde: #00ff15;
-    --preto: #000000;
+    --roxo: #6261a7;
 
 }
 body{
     background-color: var(--verde);
 }
  h1{
-    background-color: var(--preto);
+    background-color: var(--roxo);
  }
